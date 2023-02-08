@@ -29,5 +29,5 @@ $ git clone {ThisRepo}
 Run *Poker.py* to start the game.
 
 ## Starting the game
-Press "1" to play poker
-
+* Press "1" to play poker
+* Press "2" to exit the game
