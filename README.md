@@ -22,8 +22,8 @@ Project is created with:
 To run this project, install it locally using git:
 
 ```
-$ cd ../{YourFolderName}
-$ git clone {ThisRepo}
+$ cd ../YourFolderName
+$ git clone https://github.com/ScoV8k/Texas-Holdem.git
 ```
 
 Run *Poker.py* to start the game.
